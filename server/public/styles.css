@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background: linear-gradient(to left, rgb(244, 251, 253), #2fd7ac);
 }
 
 #main_content {
